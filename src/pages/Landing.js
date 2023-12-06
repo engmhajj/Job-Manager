@@ -13,7 +13,10 @@ const Landing = () => {
           <h1>
             Job <span>Tracking</span> App
           </h1>
-          <p>Let us manage your jobs!</p>
+          <p>
+            A powerful and easy to use jobs applications management, job
+            organizer and time-tracking app for job seekers.
+          </p>
           <Link to="/login" className="btn btn-hero">
             Login/Register
           </Link>
